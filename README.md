@@ -1,1 +1,1 @@
-"# Lista de la compra y tareas" 
+# Lista de la compra y tareas
