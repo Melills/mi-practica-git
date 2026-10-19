@@ -1,1 +1,2 @@
 "Repasar Git"
+"sacar la basura" 
