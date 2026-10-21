@@ -2,3 +2,4 @@
 "sacar la basura" 
 "sacar la basura" 
 Sacar la basura
+terminar la practica de git
